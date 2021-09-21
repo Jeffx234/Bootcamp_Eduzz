@@ -1,0 +1,3 @@
+SCRUM é um frameworks de gerenciamento de projetos ágeis
+
+Projeto usando equipes pequenas e multidisciplinares produzem os melhores resultados

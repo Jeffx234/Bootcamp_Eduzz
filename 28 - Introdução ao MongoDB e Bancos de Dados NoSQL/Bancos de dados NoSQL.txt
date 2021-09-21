@@ -1,0 +1,36 @@
+Tipos de banco NoSQL - 
+- MongoDB
+- Redis
+- Cassandra
+- Neo4j
+
+CASSANDRA
+
+**Keyspace**: agrupamento de colunas ⇒ database
+
+**Column** Family/table: agrupamento de colunas ⇒ table
+
+**Row key**: chave que representa uma linha de coluna ⇒ pRIMARY kEY
+
+**Column**: representa um valor contendo: Name, Value Timestamp
+
+
+REDIS//
+
+Armazena um conjunto de dados, seja ele simples ou complexo indentifacos por um identificador exclusivo
+
++Bom desempenho em aplicações na nuvem
+
+-Menor capacidade de busca
+
+
+MongoDB --
+Quando Usar? 
+- Grande volume de dados.
+- Dados não necessariamente estruturados.
+
+Quando não usar?
+- Necessidade de relacionamentos/joins
+- Propriedades CID e transações são importantes
+- Curiosidade: Diversas entdidades de pagamento não homologam
+- sistemas cujos dados financeiros dos clientes não estejam em bancos de dados relacionais tradicionais

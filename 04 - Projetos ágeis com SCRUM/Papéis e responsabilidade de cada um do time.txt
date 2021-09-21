@@ -1,0 +1,18 @@
+(PO) Product Owner
+- Representante da área de Negócios
+- PO não é um Comitê
+- Define as funcionalidade do software(Product Backlog)
+- Prioriza as funcionalidades de acordo com o valor do negócio
+- Garante que o time de desenvolvimento entenda os itens do Backlog no nível necessário.
+
+
+SCRUM MASTER(SM)
+- Garantir o uso correto do SCRUM
+- Scrum Master não é gerente de Projetos
+- Age como facilitador
+- Auxilia o Product Owner no planejamento e estimativas do backlog
+- Auxilia a equipe a remover impedimentos
+- Treina o time em atorgerenciamento e interdisciplinaridade
+
+Time de Desenvolvimento(DEV)
+- Possui habilidades suficientes para desenvolver, testar, criar e desenhar, ou seja, tudo que for necessário para entregar o software funcionando 
